@@ -1,0 +1,20 @@
+:root {
+    --bs-primary-rgb: 40, 71, 184;
+
+}
+
+.card img {
+    object-fit: cover;
+    height:40vh;
+    width: auto;
+}
+
+.card .btn {
+    width: 100%;
+    background-color: rgb(40, 71, 184);
+    border: none;
+}
+
+
+
+    
